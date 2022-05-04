@@ -1,0 +1,2 @@
+class CartedsController < ApplicationController
+end
